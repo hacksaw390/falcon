@@ -1,0 +1,30 @@
+/*.tabledesign{
+	border: 5px solid #80e1ff;
+}
+.tabledesign th{
+	background: #009ccc;
+	padding: 5px 5px;
+}
+td{
+	padding-left: 10px;
+	font-size: 12px;
+}
+tr.odd{
+	background: #e6f9ff;
+}
+tr.even{
+	background: #ccf3ff;
+}
+tr.odd,
+tr.even:hover{
+	background: #b3edff;
+}
+.dt-buttons.btn-group{
+	background: #009ccc;
+}
+.dt-buttons.btn-group span{
+	color: #000;
+}
+after{
+	font-size: 10px;
+}*/
